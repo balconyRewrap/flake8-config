@@ -1,6 +1,6 @@
 # Flake8 Plugins Collection
 
-![Flake8](https://github.com/user-attachments/assets/b17015ed-eb6f-4f47-91e0-c6ad92574f1b)
+![Flake8](https://www.python.org/static/img/python-logo.png)
 
 ## About the Project
 
