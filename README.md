@@ -1,6 +1,6 @@
 # Flake8 Plugins Collection
 
-![Flake8](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Python-logo-notext.svg/192px-Python-logo-notext.svg.png)
+![Flake8](https://github.com/user-attachments/assets/b17015ed-eb6f-4f47-91e0-c6ad92574f1b)
 
 ## About the Project
 
